@@ -88,3 +88,7 @@ let res = await orwell.upload(Buffer.from('test'), [
   },
 ]);
 ```
+
+### Demo
+
+Under the `example` directory, you can find a demo of the library. Just run the HTML, connect and enjoy!
